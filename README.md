@@ -42,7 +42,7 @@ avoid exotic libraries).
 - Nitinkumar ANAGHAN 
 - Akshaykumar DUDHAGARA 
 - Bhargav SHAH
-- (Auramma BOATENG leave during the project )
+- (Auramma BOATENG left during the project )
 
 ### Acknowledgments
 

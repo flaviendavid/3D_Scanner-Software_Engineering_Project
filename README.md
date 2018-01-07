@@ -38,8 +38,11 @@ avoid exotic libraries).
 
 ### Authors
 
-- Auramma BOATENG
 - Flavien DAVID
+- Nitinkumar ANAGHAN 
+- Akshaykumar DUDHAGARA 
+- Bhargav SHAH
+- (Auramma BOATENG left during the project )
 
 ### Acknowledgments
 
